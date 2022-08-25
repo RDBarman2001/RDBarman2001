@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rupakdebbarman111@gmail.com**
 
-- ⚡ Fun fact **I love to watch movies Series, Technically I love to see new stories**
+- ⚡ Fun fact **I love to watch movies and web Series, Technically I love to see new stories**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
