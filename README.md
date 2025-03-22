@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rupak Deb Barman</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdbarman2001&label=Profile%20views&color=0e75b6&style=flat" alt="rdbarman2001" /> </p>
 
@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Library API](https://github.com/RDBarman2001/LIBRARY-API.git)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Automation Testing**
 
-- 💬 Ask me about **HTML,CS,JS**
+- 💬 Ask me about **HTML,CS,JS,java,Selenium**
 
 - 📫 How to reach me **rupakdebbarman111@gmail.com**
 
